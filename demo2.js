@@ -627,7 +627,7 @@ const jo = {};
     function domainCheck() {
   var a = 'SolutionBank',
       b = 'https://Solutionbank.eu.org',
-      c = 'Houseofblogger.com',
+      c = 'hoblinksme1.blogspot.com',
       d = 'jettheme NP';
 
   if (window.location.hostname.indexOf(c) == -1 && window.location.pathname.indexOf('/b/preview') == -1 && window.location.pathname.indexOf('/b/blog-preview') == -1) {
